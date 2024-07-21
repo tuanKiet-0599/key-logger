@@ -1,0 +1,2 @@
+nho cai` pip, python, cai library dung lenh pip
+pip install pynput
